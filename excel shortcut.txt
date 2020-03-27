@@ -1,0 +1,4 @@
+Excel Shortcut:
+
+Ctrl+H = Replace text
+Ctrl+G = Goto & Special Go to
